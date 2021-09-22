@@ -1,11 +1,11 @@
 # FoodMe
 
-An Android application to place orders when you sit inside Restaurants or Hotels. This reduces the work of Waiters/Servers and most importantly you no need to wait until waiter addresses you.
+An Android application to place orders when you sit inside Restaurants or Hotels. This reduces the work of Waiters/Servers and most importantly you don't need to wait until waiter addresses you.
 
 <h3>Steps</h3>
 1.Simply connect to their Wi-Fi network.<br>
 2.Login with your Name, Contact Number, Table Number. <br>
-3.You will be presented with Menus available.<br>
+3.You will be presented with the Menu available.<br>
 4.Select food items and quantity and palce the order. <br>
 5.Bill will be generated and presented to you. <br>
 6.Orders will be sent to the Chef/Cook. So that they can prepare you a delicious food.<br>
